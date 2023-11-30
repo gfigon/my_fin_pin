@@ -7,5 +7,6 @@
 .DS_Store
 .quarto
 
-/.quarto/
 /_site/
+/.quarto/
+
