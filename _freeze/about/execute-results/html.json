@@ -1,8 +1,10 @@
 {
-  "hash": "99b0aec66afd757aae9ea1bae31217fe",
+  "hash": "9525ecf6f9948537cbca9a296b5fb8be",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n\n```{.r .cell-code}\nprint(\"dssds\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"dssds\"\n```\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this sitesdsdasd\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n\n```{.r .cell-code}\nprint(\"dssds\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"dssds\"\n```\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
