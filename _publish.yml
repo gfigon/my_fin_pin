@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: fce6ff07-6c61-4c16-b7bc-0cbcb9d54cc7
+      url: 'https://myfinpin.com'
